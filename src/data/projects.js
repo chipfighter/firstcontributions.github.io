@@ -1460,6 +1460,7 @@ export const projectList = [
   },
   {
     name: "Context Attachment Manager",
+    loadIssues: true,
     imageSrc: "https://raw.githubusercontent.com/chipfighter/context-attachment-manager/v0.9.0/plugin/assets/logo.png",
     projectLink: "https://github.com/chipfighter/context-attachment-manager",
     description: "Manage image history in Codex desktop and local Code sessions in Claude Desktop. MIT licensed.",
